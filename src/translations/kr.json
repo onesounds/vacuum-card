@@ -1,0 +1,44 @@
+{
+  "status": {
+    "Cleaning": "청소 중",
+    "Paused": "일시 중지",
+    "Idle": "대기",
+    "Charging": "충전 중",
+    "Returning home": "충전기에 연결 중"
+  },
+  "source": {
+    "Gentle": "젠틀",
+    "Silent": "무소음",
+    "Standard": "밸런스",
+    "Medium": "터보",
+    "Turbo": "최대"
+  },
+  "common": {
+    "name": "청소기 카드",
+    "description": "청소기 카드로 로봇청소기를 조작할 수 있습니다.",
+    "start": "시작",
+    "continue": "계속",
+    "pause": "일시 정지",
+    "stop": "종료",
+    "return_to_base": "충전기",
+    "locate": "청소기 위치"
+  },
+  "error": {
+    "missing_entity": "엔티티 설정이 필요합니다!"
+  },
+  "editor": {
+    "entity": "엔티티 (필수)",
+    "map": "맵 카메라 (옵션)",
+    "image": "이미지 (옵션)",
+    "compact_view": "컴팩트 뷰",
+    "compact_view_aria_label_on": "컴팩트 뷰 켜기",
+    "compact_view_aria_label_off": "컴팩트 뷰 끄기",
+    "show_name": "이름 표시",
+    "show_name_aria_label_on": "이름 표시 켜기",
+    "show_name_aria_label_off": "이름 표시 끄기",
+    "show_toolbar": "툴바 표시",
+    "show_toolbar_aria_label_on": "툴바 표시 켜기",
+    "show_toolbar_aria_label_off": "툴바 표시 끄기",
+    "code_only_note": "참고: 액션 및 상태 설정 옵션은 코드 에디터서만 가능합니다."
+  }
+}
